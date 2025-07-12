@@ -26,11 +26,11 @@ I'm a passionate DevOps Engineer who enjoys automating infrastructure, optimizin
  
 Here are some of the DevOps tools and infrastructure code I’ve shared on GitHub:
  
-- 🔧 [**ansible-playbooks**](https://github.com/yourusername/ansible-playbooks) – Playbooks for server setup, configuration, and deployment.
-- ☁️ [**terraform-modules**](https://github.com/yourusername/terraform-modules) – Reusable Terraform modules for AWS/GCP.
-- 🐳 [**docker-templates**](https://github.com/yourusername/docker-templates) – Base Dockerfiles and best practices.
-- 🔐 [**kubernetes-helm**](https://github.com/yourusername/kubernetes-helm) – Helm charts and K8s manifests.
-- 💡 [**bash-scripts**](https://github.com/yourusername/bash-scripts) – Handy automation scripts for everyday DevOps tasks.
+- 🔧 [**ansible-playbooks**](https://github.com/jeddtony/ansible-playbooks) – Playbooks for server setup, configuration, and deployment.
+- ☁️ [**terraform-modules**](https://github.com/jeddtony/terraform-modules) – Reusable Terraform modules for AWS/GCP.
+- 🐳 [**docker-templates**](https://github.com/jeddtony/docker-templates) – Base Dockerfiles and best practices.
+- 🔐 [**kubernetes-helm**](https://github.com/jeddtony/kubernetes-helm) – Helm charts and K8s manifests.
+- 💡 [**bash-scripts**](https://github.com/jeddtony/bash-scripts) – Handy automation scripts for everyday DevOps tasks.
  
 ---
  
