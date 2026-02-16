@@ -4,7 +4,7 @@
 ---
  
 ### 🚀 About Me
-I'm a passionate DevOps Engineer who enjoys automating infrastructure, optimizing CI/CD pipelines, and building scalable cloud-native solutions. I work with tools and platforms like AWS, GCP, Kubernetes, Terraform, Ansible, and more.
+I'm a passionate Software Developer and DevOps Engineer who enjoys automating infrastructure, optimizing CI/CD pipelines, and building scalable cloud-native solutions. I work with tools and platforms like AWS, GCP, Kubernetes, Terraform, Ansible, and more.
  
 ---
  
