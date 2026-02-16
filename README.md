@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jed Tony (Jedidiah Anthony) 👋</h1>
-<h3 align="center">DevOps Engineer | Cloud Architect | Automation Enthusiast</h3>
+<h3 align="center"> Software Engineer | DevOps Engineer | Cloud Architect | Automation Enthusiast</h3>
  
 ---
  
